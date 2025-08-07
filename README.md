@@ -1,7 +1,5 @@
 # 👋 Hello, je suis Maty KANE !**
 
-***
-
 🏆 **Data Scientist Junior**
 
 ***
@@ -110,15 +108,15 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras quelques uns de mes projets en Data
 ## 📌 Projets
 
 ### 🔷 📚 Formation Data Scientist - [Formation Data Scientist – OpenClassrooms]
-•	Projet Academy : Analyse des Données des Systèmes Éducatifs.
-•	Projet Santé Publique France : Préparation et Analyse des Données Open Food Facts.
-•	Ville de Seattle : Anticipation des Besoins en Consommation d'Énergie et d'Émissions de CO2 des Bâtiments.
-•	Projet Olist : Segmentation de clients d'un site e-commerce.
-•	Place de Marché : Classification automatique de biens de consommation.
-•	Projet scoring crédit : Implémentation d’un Modèle de Scoring Crédit et Intégration MLOps.
-•	Dashboard scoring crédit & veille : Réaliser un dashboard et assurer une veille technique. 
-•	Projet Big Data : Réalisation d’un traitement dans un environnement Big Data sur le Cloud.
-•	Projet IA et management : Cadrage d’un projet IA - Développement d'une Application Mobile de Recommandation d'Articles Vestimentaires Basée sur l'IA.
+- Projet Academy : Analyse des Données des Systèmes Éducatifs.
+- Projet Santé Publique France : Préparation et Analyse des Données Open Food Facts.
+- Ville de Seattle : Anticipation des Besoins en Consommation d'Énergie et d'Émissions de CO2 des Bâtiments.
+- Projet Olist : Segmentation de clients d'un site e-commerce.
+- Place de Marché : Classification automatique de biens de consommation.
+- Projet scoring crédit : Implémentation d’un Modèle de Scoring Crédit et Intégration MLOps.
+- Dashboard scoring crédit & veille : Réaliser un dashboard et assurer une veille technique. 
+- Projet Big Data : Réalisation d’un traitement dans un environnement Big Data sur le Cloud.
+- Projet IA et management : Cadrage d’un projet IA - Développement d'une Application Mobile de Recommandation d'Articles Vestimentaires Basée sur l'IA.
 
 ***
 
