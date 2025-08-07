@@ -1,4 +1,4 @@
-# 👋 Hello, je suis Maty KANE !**
+# 👋 Hello, je suis Maty KANE !
 
 🏆 **Data Scientist Junior**
 
