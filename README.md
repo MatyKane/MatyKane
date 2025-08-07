@@ -20,7 +20,9 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras quelques uns de mes projets en Data
 - **Web** : Visualisation, interfaces  
 - **Bureautique** : Automatisation avec Excel/VBA   
 
-### 📊 Analyse & Visualisation de Données
+***
+
+## 📊 Analyse & Visualisation de Données
 **Matplotlib | Seaborn | Plotly | Power BI | Tableau | Jupyter | Colab**
 
 ***
@@ -96,7 +98,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras quelques uns de mes projets en Data
 - **Outils de gestion** : Trello
 - **Versionning** : Git, GitHub, GitLab  
 
----
+***
 
 ## 💻 Environnements Pro & Tests
 
@@ -104,7 +106,6 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras quelques uns de mes projets en Data
 - **Tests & Env. virtuels** : `pytest`, `unitest`, Conda, venv  
 
 ***
-
 
 ## 📌 Projets
 
