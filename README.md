@@ -1,10 +1,10 @@
 # 👋 Hello, je suis Maty KANE !
 
-🏆 **Data Scientist Junior**
+## 🏆 **Data Scientist | Data Analyst | Machine Learning & NLP | Data Viz**
 
 ***
 
-Bienvenue sur mon GitHub ! Ici, tu trouveras quelques uns de mes projets en Data Science, Machine Learning, réalisés dans le cadre de ma formation et de mes travaux personnels.
+***Bienvenue sur mon GitHub ! Ici, vous trouverez quelques uns de mes projets en Data Science, Machine Learning, réalisés dans le cadre de ma formation et de mes travaux personnels.***
 
 ***
 
@@ -14,14 +14,14 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras quelques uns de mes projets en Data
 **Python | R | SQL | HTML/CSS | Excel/VBA**
 
 - **Python** : Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras   
-- **SQL** : PostgreSQL, SQLite  
+- **SQL** : PostgreSQL, SQL  
 - **Web** : Visualisation, interfaces  
 - **Bureautique** : Automatisation avec Excel/VBA   
 
 ***
 
 ## 📊 Analyse & Visualisation de Données
-**Matplotlib | Seaborn | Plotly | Power BI | Tableau | Jupyter | Colab**
+**Matplotlib | Seaborn | Plotly | Power BI | Tableau | Jupyter | R | Rstudio | Knime | Colab**
 
 ***
 
@@ -105,18 +105,38 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras quelques uns de mes projets en Data
 
 ***
 
-## 📌 Projets
+## 🎓 **Projets réalisés**
 
 ### 🔷 📚 Formation Data Scientist - [Formation Data Scientist – OpenClassrooms]
-- Projet Academy : Analyse des Données des Systèmes Éducatifs.
-- Projet Santé Publique France : Préparation et Analyse des Données Open Food Facts.
-- Ville de Seattle : Anticipation des Besoins en Consommation d'Énergie et d'Émissions de CO2 des Bâtiments.
-- Projet Olist : Segmentation de clients d'un site e-commerce.
-- Place de Marché : Classification automatique de biens de consommation.
-- Projet scoring crédit : Implémentation d’un Modèle de Scoring Crédit et Intégration MLOps.
-- Dashboard scoring crédit & veille : Réaliser un dashboard et assurer une veille technique. 
-- Projet Big Data : Réalisation d’un traitement dans un environnement Big Data sur le Cloud.
-- Projet IA et management : Cadrage d’un projet IA - Développement d'une Application Mobile de Recommandation d'Articles Vestimentaires Basée sur l'IA.
+
+### 🎯 Projet Academy  
+[**Analyse des Données des Systèmes Éducatifs**](https://github.com/MatyKane/P2_Analyse-des-donn-es-de-syst-mes-ducatifs)
+
+### 🥗 Projet Santé Publique France  
+[**Préparation et Analyse des Données Open Food Facts**](https://github.com/MatyKane/P3_Preparer_des_donnes_pour_un_organisme_de_sante_publique)
+
+### 🌆 Ville de Seattle  
+[**Anticipation des Besoins en Consommation d'Énergie et d'Émissions de CO₂ des Bâtiments**](https://github.com/MatyKane/P4_Anticipez_les_besoins_en_consommation_de_batiments)
+
+### 🛍️ Projet Olist  
+[**Segmentation de clients d'un site e-commerce**](https://github.com/MatyKane/P5_Segmentez_des_clients_de_site_e-commerce)
+
+### 🏷️ Place de Marché  
+[**Classification automatique de biens de consommation**](https://github.com/MatyKane/P6_Classifiez_automatiquement_des_biens_de_consommation)
+
+### 💳 Projet Scoring Crédit  
+[**Implémentation d’un Modèle de Scoring Crédit et Intégration MLOps**](https://github.com/MatyKane/P7_Modele_Scoring)
+
+### 📊 Dashboard Scoring Crédit & Veille  
+[**Réaliser un dashboard et assurer une veille technique**](https://github.com/MatyKane/P8_R-alisez_un_dashboard_et_assurez_une_veille_technique)
+
+### ☁️ Projet Big Data  
+[**Réalisation d’un traitement dans un environnement Big Data sur le Cloud**](https://github.com/MatyKane/P9_Realisez_un_traitement_dans_un_environnement_Big_Data_sur_le_Cloud)
+
+### 🤖 Projet IA & Management  
+[**Cadrage d’un projet IA – Application Mobile de Recommandation d’Articles Vestimentaires**](https://github.com/MatyKane/P10_Realisation_cadrage_projet_IA)
+
+
 
 ***
 
