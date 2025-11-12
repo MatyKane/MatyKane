@@ -14,7 +14,7 @@
 **Python | R | SQL | HTML/CSS | Excel/VBA**
 
 - **Python** : Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras   
-- **SQL** : PostgreSQL, SQL  
+- **SQL** : PostgreSQL, SQL, MySQL, SQLite  
 - **Web** : Visualisation, interfaces  
 - **Bureautique** : Automatisation avec Excel/VBA   
 
@@ -107,17 +107,24 @@
 
 ## 🎓 **Projets réalisés**
 
-### 🔷 📚 Formation Data Scientist - [Formation Data Scientist – OpenClassrooms]
+### 🔷 📚 Formation Data Scientist - [Formation Data Scientist – Partenariat CentraleSupélec & OpenClassrooms]
 
-- 🎯 Projet Academy : [**Analyse des Données des Systèmes Éducatifs**](https://github.com/MatyKane/P2_Analyse-des-donn-es-de-syst-mes-ducatifs)
+- 🎓 Projet Academy : [**Analyse des Données des Systèmes Éducatifs**](https://github.com/MatyKane/P2_Analyse-des-donn-es-de-syst-mes-ducatifs)
 - 🥗 Projet Santé Publique France : [**Préparation et Analyse des Données Open Food Facts**](https://github.com/MatyKane/P3_Preparer_des_donnes_pour_un_organisme_de_sante_publique)
 - 🌆 Ville de Seattle : [**Anticipation des Besoins en Consommation d'Énergie et d'Émissions de CO₂ des Bâtiments**](https://github.com/MatyKane/P4_Anticipez_les_besoins_en_consommation_de_batiments)
 - 🛍️ Projet Olist : [**Segmentation de clients d'un site e-commerce**](https://github.com/MatyKane/P5_Segmentez_des_clients_de_site_e-commerce)
 - 🏷️ Place de Marché : [**Classification automatique de biens de consommation**](https://github.com/MatyKane/P6_Classifiez_automatiquement_des_biens_de_consommation)
-- Projet Scoring Crédit : [**Implémentation d’un Modèle de Scoring Crédit et Intégration MLOps**](https://github.com/MatyKane/P7_Modele_Scoring)
+- 💳 Projet Scoring Crédit : [**Implémentation d’un Modèle de Scoring Crédit et Intégration MLOps**](https://github.com/MatyKane/P7_Modele_Scoring)
 - 📊 Dashboard Scoring Crédit & Veille : [**Réaliser un dashboard et assurer une veille technique**](https://github.com/MatyKane/P8_R-alisez_un_dashboard_et_assurez_une_veille_technique)
 - ☁️ Projet Big Data : [**Réalisation d’un traitement dans un environnement Big Data sur le Cloud**](https://github.com/MatyKane/P9_Realisez_un_traitement_dans_un_environnement_Big_Data_sur_le_Cloud)
 - 🤖 Projet IA & Management : [**Cadrage d’un projet IA – Application Mobile de Recommandation d’Articles Vestimentaires**](https://github.com/MatyKane/P10_Realisation_cadrage_projet_IA)
+
+***
+
+## 🎯 Projets Personnels
+
+  🏦 Dashboard Power BI – Nova-Credit : [**Dashboard Power BI – Nova-Credit**](https://github.com/MatyKane/Dashboard-Power-BI-Nova-Credit)
+
 
 ***
 
