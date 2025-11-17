@@ -119,11 +119,13 @@
 - ☁️ Projet Big Data : [**Réalisation d’un traitement dans un environnement Big Data sur le Cloud**](https://github.com/MatyKane/P9_Realisez_un_traitement_dans_un_environnement_Big_Data_sur_le_Cloud)
 - 🤖 Projet IA & Management : [**Cadrage d’un projet IA – Application Mobile de Recommandation d’Articles Vestimentaires**](https://github.com/MatyKane/P10_Realisation_cadrage_projet_IA)
 
+
 ***
 
 ## 🎯 Projets Personnels
 
-  🏦 Dashboard Power BI – Nova-Credit : [**Dashboard Power BI – Nova-Credit**](https://github.com/MatyKane/Dashboard-Power-BI-Nova-Credit)
+  - 🏦 Dashboard Power BI – Nova-Credit : [**Dashboard Power BI – Nova-Credit**](https://github.com/MatyKane/Dashboard-Power-BI-Nova-Credit)
+  - 🗂️ Job Matcher : [**Moteur de recommandations d'offres d'emploi / tendances métiers et compétences**](https://github.com/MatyKane/Job_Matcher---Moteur-de-recommandations-d-offres-tendances-m-tiers-et-comp-tences.git)
 
 
 ***
