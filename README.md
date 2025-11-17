@@ -1,6 +1,6 @@
 # 👋 Hello, je suis Maty KANE !
 
-## 🏆 **Data Scientist | Data Analyst | Machine Learning & NLP | Data Viz**
+## 🏆 **Data Scientist | Computer Vision & NLP | Data Visualisation**
 
 ***
 
