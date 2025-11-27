@@ -126,6 +126,7 @@
 
   - 🏦 Dashboard Power BI – Nova-Credit : [**Dashboard Power BI – Nova-Credit**](https://github.com/MatyKane/Dashboard-Power-BI-Nova-Credit)
   - 🗂️ Job Matcher : [**Moteur de recommandations d'offres d'emploi / tendances métiers et compétences**](https://github.com/MatyKane/Job_Matcher---Moteur-de-recommandations-d-offres-tendances-m-tiers-et-comp-tences.git)
+  - ✈️ Maintenance prédictive aéronautique CMAPSS_RUL: [**Maintenance prédictive aéronautique CMAPSS_RUL**](https://github.com/MatyKane/Maintenance_Predictive_Aeronautique_CMAPSS_RUL.git)
 
 
 ***
